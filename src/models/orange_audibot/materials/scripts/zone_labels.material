@@ -1,0 +1,119 @@
+material ZoneLabels/A
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_A.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/B
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_B.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/C
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_C.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/D
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_D.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/E
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_E.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/F
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_F.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/G
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_G.png
+      }
+    }
+  }
+}
+
+material ZoneLabels/H
+{
+  technique
+  {
+    pass
+    {
+      lighting off
+      texture_unit
+      {
+        texture zone_H.png
+      }
+    }
+  }
+}

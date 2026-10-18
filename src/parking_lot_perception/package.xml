@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>parking_lot_perception</name>
+  <version>0.0.0</version>
+  <description>C++ parking-slot and LaserScan pillar-candidate detection with semantic fusion for the parking-lot simulation.</description>
+  <maintainer email="wt@todo.todo">wt</maintainer>
+  <license>TODO: License declaration</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>geometry_msgs</depend>
+  <depend>parking_lot_core</depend>
+  <build_depend>rapidjson-dev</build_depend>
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>std_srvs</depend>
+  <depend>tf2</depend>
+  <depend>tf2_geometry_msgs</depend>
+  <depend>tf2_ros</depend>
+  <depend>visualization_msgs</depend>
+  <depend>opencv4</depend>
+  <test_depend>ament_cmake_gtest</test_depend>
+  <test_depend>launch_ros</test_depend>
+  <test_depend>launch_testing_ament_cmake</test_depend>
+  <test_depend>rclpy</test_depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
